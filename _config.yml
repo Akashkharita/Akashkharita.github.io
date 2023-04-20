@@ -8,14 +8,14 @@
 
 title: ML4Earth
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+github_username: Akashkharita
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: akharita1999@gmail.com
+twitter_username: seismo_akash
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
