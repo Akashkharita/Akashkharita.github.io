@@ -40,3 +40,19 @@ body {
     border-radius: 4px;
   }
   
+  .resume-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .resume-button:hover {
+    background-color: #005b99;
+  }
+  
